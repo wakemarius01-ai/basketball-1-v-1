@@ -1,4 +1,4 @@
-```css
+style.txt
 body {
     margin: 0;
     font-family: Arial, sans-serif;
